@@ -1,6 +1,6 @@
 # LAMMPS
-.........................................................................
 Documents required to do the Simulations in Materials homeworks
+.....................................................................
 
 Folder description:
   1. Mean Squared Displacement
